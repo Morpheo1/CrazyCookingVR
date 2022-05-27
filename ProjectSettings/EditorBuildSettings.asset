@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 572e58dabb679274cb4b291c71855d83
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: fccad0a91488a1b4dbda6e0f1dde1366
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 096173a7c63eb48e4b00698932fa1ba9, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3b54c9ff431be422bab758b10bf8111c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e81595f70ce984340b8d9a62ed4689ec, type: 2}
